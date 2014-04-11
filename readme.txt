@@ -1,5 +1,5 @@
 *To Compile this program clone the repository and run the following command
-	g++ -std=c++11 -W -Wall main.cpp
+	g++ -W -Wall main.cpp
 	
 /**************************************
 Compiled executable is also availiable in exe folder.
